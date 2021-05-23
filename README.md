@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/t13cedesign/Frontend-Mentor-3-column-preview-card-component]
+- Live Site URL: [https://t13cedesign.github.io/Frontend-Mentor-3-column-preview-card-component/]
 
 ## My process
 
